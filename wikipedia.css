@@ -46,3 +46,7 @@ position:relative;
     text-decoration: none;
     color: black;
 }
+input[type = 'text']
+{
+   font-size:18px;
+}
